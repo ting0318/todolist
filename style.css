@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Combo&family=Diplomata+SC&family=Rubik+Moonrocks&family=Sigmar+One&display=swap');body{
+	background-color: beige;
+}
+
+.container{
+	position: absolute;
+	background-color: rgb(224, 228, 182);
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 400px;
+    height: 600px;
+}
+
+h2{
+	margin: 30px ;
+	font-family: 'Combo', cursive;
+	font-family: 'Diplomata SC', cursive;
+	font-family: 'Rubik Moonrocks', cursive;
+	font-size: 40px;
+	color: #e2942fcd;	
+}
+
+
+
+.add-list{
+	margin: 30px;
+}
+
+
+
+
+input{
+	padding: 10px 6px;
+	width: 70%;
+	border: none;
+	border-radius: 4px;
+}
+
+button{
+	padding: 8px 6px;
+	background-color: #edcfa5;
+	border: none;
+	border-radius: 4px;
+	color: #d35c12ed;
+    font-weight: bolder;
+}
+button:hover{
+    background-color: #c0c66e;
+}
+
+
+ul{
+	padding: 20px;
+}
+
+li{
+    list-style: none;
+    padding: 10px 3px;
+    background-color: #fff;
+    margin: 12px 0;
+    box-shadow: 0 3px 10px #00000029;
+    border-radius: 3px;
+	font-family: 'Chewy', cursive;
+	font-family: 'Combo', cursive;
+	font-family: 'Diplomata SC', cursive;
+	font-family: 'Rubik Moonrocks', cursive;
+	font-family: 'Sigmar One', cursive;
+	font-size: 16px;
+	color: #07401e94;
+}
+
+li:hover{
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
